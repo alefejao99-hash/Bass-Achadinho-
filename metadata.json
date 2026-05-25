@@ -1,0 +1,6 @@
+{
+  "name": "BASS Compre Mais Achadinho",
+  "description": "Aplicativo de vendas de afiliados Shopee onde você pode cadastrar seus próprios produtos para divulgação e os clientes clicam para ir direto à Shopee.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
